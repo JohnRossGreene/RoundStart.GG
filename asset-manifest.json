@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roundstart-react/static/css/main.65fe43d0.css",
+    "main.js": "/roundstart-react/static/js/main.f4e77b77.js",
+    "static/js/787.cb7e607a.chunk.js": "/roundstart-react/static/js/787.cb7e607a.chunk.js",
+    "index.html": "/roundstart-react/index.html",
+    "main.65fe43d0.css.map": "/roundstart-react/static/css/main.65fe43d0.css.map",
+    "main.f4e77b77.js.map": "/roundstart-react/static/js/main.f4e77b77.js.map",
+    "787.cb7e607a.chunk.js.map": "/roundstart-react/static/js/787.cb7e607a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fe43d0.css",
+    "static/js/main.f4e77b77.js"
+  ]
+}
